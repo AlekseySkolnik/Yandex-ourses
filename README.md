@@ -1,1 +1,1 @@
-# Yandex-ourses
+# YandexCourses
